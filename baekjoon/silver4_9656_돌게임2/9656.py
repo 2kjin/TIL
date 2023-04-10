@@ -1,5 +1,5 @@
 n = int(input())
 if n % 2 == 0:
-    print('CY')
+    print('SK')
 else:
-    print('SY')
+    print('CY')
